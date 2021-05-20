@@ -9,7 +9,8 @@ body {
 }
 .menu-principal {
     padding: 1%;
-    background-color: #011b3c;
+    background-color: #343433
+    ;
     width: 98%;
     position: relative;
     text-align: center;
@@ -40,7 +41,7 @@ body {
 .menu-principal nav a:hover{
     background-color: white;
     border-radius: 5px;
-    color : #011b3c;
+    color : #343433;
     padding: 0.5%;
     
 }
@@ -69,7 +70,7 @@ body {
     font-size: 150%;
     text-align: justify;
 }
-.container #clientes p{
+.container #jogos p{
     font-size: 100%;
 }
 .container-info {
@@ -110,7 +111,7 @@ footer{
     padding: 0;
     clear: both;
     padding: 1%;
-    background-color: #011b3c;
+    background-color: #343433;
     width: 98%;
     color: white;
     padding-top: 4%;
@@ -133,11 +134,11 @@ footer a img{
 #footer{
 text-align: center;
 }
-.container #empresa p{
+.container #sobremim p{
     font-size: 150%;
     padding-bottom: 5%;
 }
-.container #empresa h2{
+.container #sobremim h2{
     font-size: 200%;
 }
 .container #clientes article{
